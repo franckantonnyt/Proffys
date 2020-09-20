@@ -3,7 +3,7 @@
 O Proffy visa conectar profissionais da educação para com possíveis novos alunos desta forma a aplicação fornece tudo o que é necessário para organizar as aulas entre os professores e os alunos. Essa aplicação Proffy usando React Native, expo, typeScript.
 
 ## Preview
-![Preview](/.github/Proffys.png)
+![Proffys](https://github.com/franckantonnyt/Proffys/blob/develop/github/Proffys.png)
 
 # 🚀 Tecnologias:
 # Este projeto foi desenvolvido com as seguintes tecnologias:
